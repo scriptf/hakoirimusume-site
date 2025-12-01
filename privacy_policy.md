@@ -79,9 +79,9 @@ This Privacy Policy may be updated from time to time. If there are significant c
 
 ## Contact Us
 
-If you have any questions or concerns about privacy, please contact us at:
+If you have any questions or concerns about privacy, please contact us via GitHub Issues:
 
-**Email**: [Your Email Address]
+[https://github.com/scriptf/ios_hakoirimusume/issues](https://github.com/scriptf/ios_hakoirimusume/issues)
 
 ---
 
@@ -161,9 +161,9 @@ If you have any questions or concerns about privacy, please contact us at:
 
 ## お問い合わせ
 
-プライバシーに関するご質問やご懸念がある場合は、以下までご連絡ください：
+プライバシーに関するご質問やご懸念がある場合は、GitHub Issuesよりご連絡ください：
 
-**メールアドレス**: [あなたのメールアドレス]
+[https://github.com/scriptf/ios_hakoirimusume/issues](https://github.com/scriptf/ios_hakoirimusume/issues)
 
 ---
 
